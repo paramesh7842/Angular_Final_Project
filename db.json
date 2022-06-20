@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "firstname": "Paramesh",
+      "lastname": "Palamarri",
+      "dob": "2022-06-01",
+      "gender": "male",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "firstname": "hghh",
+      "lastname": "hghghgh",
+      "dob": "2022-06-01",
+      "gender": "not specified",
+      "status": "Suspended",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
